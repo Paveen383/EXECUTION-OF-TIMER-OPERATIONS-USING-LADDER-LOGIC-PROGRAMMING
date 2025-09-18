@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME : Paveen Kumaran SV
+ #### REGISTER NUMBER : 212224220071
+ #### DEPARTMENT: B.Tech - IT
+ #### YEAR : 2 year
 
  
 # Aim:
@@ -81,20 +81,15 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 
 # Simulation Screenshots 
+<img width="1637" height="617" alt="Screenshot 2025-09-18 091145" src="https://github.com/user-attachments/assets/920314e9-3b31-4548-b861-6b43e147e5f2" />
 
+<img width="925" height="836" alt="Screenshot 2025-09-18 091223" src="https://github.com/user-attachments/assets/e6c9afad-342b-479f-ab8d-044fbcc9b411" />
 
+<img width="1016" height="928" alt="Screenshot 2025-09-18 091237" src="https://github.com/user-attachments/assets/ddea54c1-27f9-4864-b769-456f985c30c2" />
 
+<img width="917" height="845" alt="Screenshot 2025-09-18 091253" src="https://github.com/user-attachments/assets/4a7f1e3e-4f89-4fcf-94f8-19e2a3005745" />
 
-
-
-
-
-
-
-
-
-
-
+<img width="1257" height="724" alt="Screenshot 2025-09-18 091321" src="https://github.com/user-attachments/assets/8aa1ed44-e1a4-42ee-8ef0-56c90fdf2f35" />
 
 # Results:
 The ladder logic programs for ON-delay, OFF-delay, and Retentive timers were successfully implemented and tested.
